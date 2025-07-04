@@ -7,7 +7,7 @@ import java.sql.*;
  * @author jade
  */
 public class dbconection {
-    static String url = "jdbc:mysql://localhost:3306/sis_ventas";  // <-- Corregido "lochost" a "localhost"
+    static String url = "jdbc:mysql://localhost:3306/sis_ventas";  // 
     static String user = "root";
     static String pass = "";
 
